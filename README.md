@@ -1,2 +1,2 @@
 # CSE-208
-CSE-208(Data-Structures-Algorithom-Lab)
+CSE-208(Data-Structures-Algorithom-2-Lab)
